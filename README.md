@@ -1,3 +1,3 @@
 # Sudoku_Solver
-sudokusolver
+Sudoku Solver
 I have used backtracking in it.
